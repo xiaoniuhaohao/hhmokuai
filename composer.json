@@ -1,0 +1,19 @@
+{
+    "name": "kisshh/hhmokuai",
+    "description": "this is a modular for tp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zk",
+            "email": "2493471867@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "kisshh\\": "src/"
+        }
+    }
+}
